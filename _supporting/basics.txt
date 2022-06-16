@@ -1,1 +1,2 @@
 http://jmcglone.com/guides/github-pages/
+https://github.com/hankquinlan/hankquinlan.github.io
